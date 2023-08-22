@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Erivelton Silva</h1>
 
-<h3 align="left">A passionate frontend developer from Brazil</h3>
 <br>
+
+<h3 align="left">A passionate frontend developer from Brazil</h3>
+
 - 🌱 I’m currently learning **TailwindCSS, React, Laravel e MySQL**
 
 - 📫 How to reach me **eriveltondasilva13@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +31,8 @@
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="eriveltondasilva13" height="30" width="40" />
 	</a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -58,6 +64,8 @@
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 	</a>
 </p>
+
+<br>
 
 <h3 align="left">GitHub Stats:</h3>
 
