@@ -20,6 +20,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![Erivelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriveltondasilva&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriveltondasilva&layout=compact)
+![Erivelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriveltondasilva&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriveltondasilva&layout=compact)
