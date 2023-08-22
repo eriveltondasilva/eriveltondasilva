@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erivelton Silva</h1>
 
-<br>
-
 <h3 align="left">A passionate frontend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **TailwindCSS, React, Laravel e MySQL**
