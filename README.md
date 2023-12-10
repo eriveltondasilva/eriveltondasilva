@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **TailwindCSS, React, Laravel, and MySQL**
 
-- 📫 How to reach me: [eriveltondasilva13@gmail.com](mailto:eriveltondasilva13@gmail.com)
-
 <br>
 
 ### Connect with me:
