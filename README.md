@@ -17,14 +17,14 @@
 
 ### Languages and Tools:
 
-[Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
-[Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-[JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)]
-[TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)]
-[React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)]
-[PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
-[Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)
-[MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-[Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+[![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)]
+[![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)]
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)]]
+[![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)]]
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)]]
+[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)]
+[![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)]
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)]
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)]
 
 <br>
