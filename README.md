@@ -9,7 +9,7 @@
 <br>
 
 ### Connect with me:
-| | |
+| test | test |
 | --- | --- |
 | [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/eriveltondsilva) | [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/eriveltondasilva) |
 
