@@ -18,9 +18,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
-### Hello there 👋
-
 #### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
 
 Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
