@@ -2,10 +2,8 @@
 
 ### A fullstack dev:
 
-- ⚙️ I use daily: `.js`, `.ts`, `.php`
-- 🌍 I'm mostly active within the **Laravel Community**
-- ✉ Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 🌍 I'm from **Brazil**
+- ✉ email: eriveltondasilva13@gmail.com
 
 
 ### Skills:
