@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Erivelton Silva</h1>
 
-#### A fullstack dev
+### A fullstack dev
 
 - 🌍 I'm from **Brazil**
 - ✉ email: eriveltondasilva13@gmail.com
 
+<br>
 
-#### Skills
+### Skills
 
 ##### lang:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
