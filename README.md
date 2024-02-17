@@ -9,7 +9,7 @@
 - 🌍 I'm from **Brazil**
 - ✉ email: eriveltondasilva13@gmail.com
 
-
+<br/>
 ### Key Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,6 +23,6 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-
-> “Qualquer um consegue escrever código que um computador entende. Bons programadores escrevem código que humanos entendem.” - Martin Fowler.
+<br/>
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+― Martin Fowler
