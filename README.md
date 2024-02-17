@@ -2,7 +2,7 @@
 
 ### Description
 
-🚀 A frontend developer passionate about creating incredible experiences for users through js. Always focused on interactive and responsive interfaces. And looking for new challenges and learning to improve my skills.
+A frontend developer passionate about creating incredible experiences for users through js. Always focused on interactive and responsive interfaces. And looking for new challenges and learning to improve my skills. 🚀 
 
 - 🌱 Currently Learning: Next.js, Nodejs, Jes
 - 🌍 I'm from **Brazil**
