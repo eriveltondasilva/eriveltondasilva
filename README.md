@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Erivelton Silva
 
-### A frontend dev
+### Description
 
 🚀 Frontend developer passionate about creating incredible experiences for users through js. Always focused on interactive and responsive interfaces. And looking for new challenges and learning to improve my skills.
 
@@ -21,6 +21,7 @@
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
 > “Qualquer um consegue escrever código que um computador entende. Bons programadores escrevem código que humanos entendem.” - Martin Fowler.
