@@ -23,4 +23,4 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-##### “Qualquer um consegue escrever código que um computador entende. Bons programadores escrevem código que humanos entendem.” - Martin Fowler.
+> “Qualquer um consegue escrever código que um computador entende. Bons programadores escrevem código que humanos entendem.” - Martin Fowler.
