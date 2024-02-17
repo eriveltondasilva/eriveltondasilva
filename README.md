@@ -9,7 +9,7 @@
 - 🌍 I'm from **Brazil**
 - ✉ email: eriveltondasilva13@gmail.com
 
-<br>
+<br/>
 
 ### Key Skills
 
@@ -24,7 +24,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br>
+<br/>
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 > ― Martin Fowler
