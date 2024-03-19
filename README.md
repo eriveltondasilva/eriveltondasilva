@@ -4,9 +4,9 @@
 
 A frontend developer passionate about creating incredible experiences for users through js. Always focused on interactive and responsive interfaces. And looking for new challenges and learning to improve my skills. 🚀 
 
-- 🌱 Currently Learning: Next.js, Nodejs, Jes
+- 🌱 Currently Learning: Next.js, Nodejs, PHP
 - 🌍 I'm from **Brazil**
-- ✉ email: eriveltondasilva13@gmail.com
+- ✉️ email: eriveltondasilva13@gmail.com
 
 
 ### Key Skills
