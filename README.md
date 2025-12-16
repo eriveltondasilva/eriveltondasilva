@@ -29,14 +29,15 @@ learning:
 
 contact:
   email: eriveltondasilva13@gmail.com
-  github: github.com/eriveltondasilva13
+  github: github.com/eriveltondasilva
+  linkedin: linkedin.com/in/eriveltondasilva
 
 status: Open to challenges and collaborations
+
+fun: Writes readable code and drinks coffee responsibly
 
 quote: >
   Any fool can write code that a computer can understand.
   Good programmers write code that humans can understand.
   — Martin Fowler
-
-fun: Writes readable code and drinks coffee responsibly
 ```
