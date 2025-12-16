@@ -33,7 +33,6 @@ contact:
   linkedin: linkedin.com/in/eriveltondasilva
 
 status: Open to challenges and collaborations
-
 fun: Writes readable code and drinks coffee responsibly
 
 quote: >
